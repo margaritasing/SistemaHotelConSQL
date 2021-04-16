@@ -15,7 +15,7 @@ public class Reserva {
     private List<Huesped> huespedes = new ArrayList<>();
     private final String dbName = "hotel";
     private final String dbUser = "root";
-    private final String dbPwd = "ange09lina08";
+    private final String dbPwd = "unafacil";
 
     public Reserva(String nombreReserva, int cantidadHuespedes, int cantidadHabitaciones, String mail, String telefono) {
         this.cantidadHabitaciones = cantidadHabitaciones;
